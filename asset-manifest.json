@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.7710bbfd.css",
-    "main.js": "/static/js/main.276c6230.js",
-    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/movie.png": "/static/media/movie.fc3fbc0a18b9280df1e7.png",
-    "static/media/soothe.png": "/static/media/soothe.a636678859aaba8632d9.png",
-    "static/media/calculator.png": "/static/media/calculator.215d905a4621bb11e2cf.png",
-    "static/media/currency.png": "/static/media/currency.e458d24fd9f961f6fd81.png",
-    "static/media/snakegame.png": "/static/media/snakegame.50af7c51656666783156.png",
-    "static/media/tictac.png": "/static/media/tictac.23f29c59f26723e8e3de.png",
-    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Sanskar Singh Resume 2024.pdf": "/static/media/Sanskar Singh Resume 2024.239a64c6c131cb625e2f.pdf",
-    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/index.html",
-    "main.7710bbfd.css.map": "/static/css/main.7710bbfd.css.map",
-    "main.276c6230.js.map": "/static/js/main.276c6230.js.map",
-    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.434276f4.css",
+    "main.js": "/Portfolio/static/js/main.d3b2b88f.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/movie.png": "/Portfolio/static/media/movie.fc3fbc0a18b9280df1e7.png",
+    "static/media/soothe.png": "/Portfolio/static/media/soothe.a636678859aaba8632d9.png",
+    "static/media/calculator.png": "/Portfolio/static/media/calculator.215d905a4621bb11e2cf.png",
+    "static/media/currency.png": "/Portfolio/static/media/currency.e458d24fd9f961f6fd81.png",
+    "static/media/snakegame.png": "/Portfolio/static/media/snakegame.50af7c51656666783156.png",
+    "static/media/tictac.png": "/Portfolio/static/media/tictac.23f29c59f26723e8e3de.png",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Sanskar Singh Resume 2024.pdf": "/Portfolio/static/media/Sanskar Singh Resume 2024.239a64c6c131cb625e2f.pdf",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.434276f4.css.map": "/Portfolio/static/css/main.434276f4.css.map",
+    "main.d3b2b88f.js.map": "/Portfolio/static/js/main.d3b2b88f.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7710bbfd.css",
-    "static/js/main.276c6230.js"
+    "static/css/main.434276f4.css",
+    "static/js/main.d3b2b88f.js"
   ]
 }
