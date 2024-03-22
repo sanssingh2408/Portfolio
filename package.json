@@ -2,7 +2,7 @@
   
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage":"http://sanssingh2408.github.io/Portfolio/",
+  "homepage":"https://sanssingh2408.github.io/Portfolio/",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
